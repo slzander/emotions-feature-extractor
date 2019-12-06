@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     box-sizing: border-box;
     font-family: 'Jura', sans-serif;
@@ -7,6 +8,20 @@ body {
     height: 100vh;
     width: 100vw;
     margin: 0;
+=======
+
+body {
+    /* background-image: url('https://www.ocregister.com/wp-content/uploads/2017/04/0423_nws_ocr-l-trflowers-26.jpg?w=620'); */
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfXQQhMbJAyOg2hmeSD-_ulB1ovhuwR5YVIGuvxWszCVp02h6-Q&s'); */
+    background-image: url('https://www.timelinecoverbanner.com/facebook-covers/turqoisse.jpg');
+    background-size: cover;
+    font-family: 'Jura', sans-serif;
+    margin-top: 40px;
+    padding: 0px;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+>>>>>>> 008b3d805f44c3e9a11ad80563b516faba0d2ff1
 }
 
 header {
@@ -62,7 +77,7 @@ h1 {
 }
 
 main {
-    /* padding-top: 180px; */
+    padding-top: 180px;
     /* background-color: #ffffff59; */
     display: flex;
     align-items: center;
@@ -144,6 +159,16 @@ aside {
     border-radius: 5px;
     overflow: auto;
     padding: 20px;
+<<<<<<< HEAD
+=======
+}
+
+
+#trainMain {
+    display: flex;
+    /* padding: 50; */
+    margin: 0px;
+>>>>>>> 008b3d805f44c3e9a11ad80563b516faba0d2ff1
 }
 
 #trainContainer {
@@ -151,7 +176,11 @@ aside {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+<<<<<<< HEAD
     height: 595px;
+=======
+    height: 575px;
+>>>>>>> 008b3d805f44c3e9a11ad80563b516faba0d2ff1
     padding: 20px;
     background-color: #46aa94;
     border-radius: 5px;
