@@ -3,8 +3,20 @@
 Created by Stacey Zander.
 
 ![background](/1.png)
+Image 1: This is the "Train your own model" page
+
+
+
 ![background](/2.png)
+Image 2: This page shows some ideas for activities when you're feeling happy.
+
+
+
+
 ![background](/3.png)
+Image 3: This page shows some ideas for activities when you're feeling stressed.
+
+
 
 
 **Demo:**
