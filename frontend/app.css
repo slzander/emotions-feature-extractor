@@ -1,14 +1,15 @@
-#icon {
-    height: 60px;
-    margin-left: 40px;
-}
 
 body {
-    /* background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg'); */
-    /* background-size: cover; */
+    /* background-image: url('https://www.ocregister.com/wp-content/uploads/2017/04/0423_nws_ocr-l-trflowers-26.jpg?w=620'); */
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfXQQhMbJAyOg2hmeSD-_ulB1ovhuwR5YVIGuvxWszCVp02h6-Q&s'); */
+    background-image: url('https://www.timelinecoverbanner.com/facebook-covers/turqoisse.jpg');
+    background-size: cover;
     font-family: 'Jura', sans-serif;
     margin-top: 40px;
     padding: 0px;
+    margin: 0;
+    height: 100%;
+    width: 100%;
 }
 
 header {
@@ -17,15 +18,14 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    height: 100px;
+    height: 150px;
     display: flex;
     align-items: center;
     box-shadow: 0 0 25px 0 black;
-}
-
-nav {
     display: flex;
     justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 header * {
@@ -33,7 +33,9 @@ header * {
 }
 
 header li {
-    margin: 20px;
+    font-size: 16pt;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 
 header li a {
@@ -41,9 +43,30 @@ header li a {
     text-decoration: none;
 }
 
+#logo {
+    display: flex;
+    text-align: center;
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+
+}
+
+h1 {
+    font-size: 40pt;
+    padding: 0;
+    margin: 0;
+}
+
+#icon {
+    height: 140px;
+}
+
 main {
-    padding-top: 100px;
-    background-color: white;
+    padding-top: 180px;
+    /* background-color: #ffffff59; */
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -56,7 +79,7 @@ main {
     justify-content: space-around;
     height: 550px;
     padding: 20px;
-    background-color: lightblue;
+    background-color: #46aa94;
     border-radius: 5px;
 
 }
@@ -85,7 +108,6 @@ main {
 #asideDiv {
     display: flex;
     flex-direction: column;
-    /* border-radius: 10px; */
 }
 
 .cardLi {
@@ -113,15 +135,17 @@ h2 {
 aside {
     height: 260px;
     width: 600px;
-    background-color: lightblue;
+    background-color: #46aa94;
     margin: 20px;
     border-radius: 5px;
+    overflow: auto;
+    padding: 20px;
 }
 
 
 #trainMain {
     display: flex;
-    padding: 50;
+    /* padding: 50; */
     margin: 0px;
 }
 
@@ -130,9 +154,9 @@ aside {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    height: 550px;
+    height: 575px;
     padding: 20px;
-    background-color: lightblue;
+    background-color: #46aa94;
     border-radius: 5px;
 }
 
@@ -172,5 +196,5 @@ button {
 }
 
 button:hover {
-    background-color: yellow;
+    background-color: #94c2ce;
 }
