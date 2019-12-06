@@ -1,24 +1,19 @@
-**Welcome to Feelings Forward, where you can always find something to do regardless of how you're feeling! You can train this app to recognize different facial expressions/emotions and choose different activities based on the expression you give. Feelings Forward uses a pre-trained model that extracts features of an image and re-trains with new data. Have fun!**
+**Welcome to Feelings Forward, where you can always find something to do regardless of how you're feeling! You can train this app to recognize different facial expressions/emotions and choose different activities based on the expression you train it to recognize. Feelings Forward uses a pre-trained model that extracts features of an image and re-trains with new data. Have fun!**
 
 Created by Stacey Zander.
-
+  
 ![background](/1.png)
 Image 1: This is the "Train your own model" page
-
-
-
+  
+  
 ![background](/2.png)
 Image 2: This page shows some ideas for activities when you're feeling happy.
-
-
-
-
+  
+  
 ![background](/3.png)
 Image 3: This page shows some ideas for activities when you're feeling stressed.
-
-
-
-
+  
+  
 **Demo:**
 
 https://youtu.be/yCC6g9syFMk
