@@ -1,4 +1,5 @@
-**Welcome to Feelings Forward, where you can always find something to do regardless of how you're feeling! You can train this app to recognize different facial expressions/emotions and choose different activities based on the expression you train it to recognize. Feelings Forward uses a pre-trained model that extracts features of an image and re-trains with new data. Have fun!**
+*Welcome to Feelings Forward, where you can always find something to do regardless of how you're feeling!*
+**You can train this app to recognize different facial expressions/emotions and choose different activities based on the expression you train it to recognize. Feelings Forward uses a pre-trained model that extracts features of an image and re-trains with new data. Have fun!**
 
 Created by Stacey Zander.
   
@@ -26,7 +27,7 @@ JavaScript
 
 **API:**
 
-https://p5js.org/
+https://p5js.org/  
 https://ml5js.org/ - Feature Extractor 
 
 
